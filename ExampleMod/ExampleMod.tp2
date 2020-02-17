@@ -1,0 +1,6 @@
+ BACKUP "ExampleMod/backup"
+SUPPORT ""
+VERSION "0.1.0"
+
+BEGIN "Example Mod"
+    PRINT "%MOD_FOLDER%"
