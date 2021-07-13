@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: Create Infinity Engine Mod Packages (.iemod and .zip)
-        uses: ALIENQuake/CreateIEModZipPackage@dev
+        uses: ALIENQuake/CreateIEModZipPackage@master
         id: CreateIEModZipPackage
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
