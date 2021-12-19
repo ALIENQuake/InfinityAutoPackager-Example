@@ -1,6 +1,6 @@
  BACKUP "weidu_external/backup/InfinityAutoPackager-Example"
 SUPPORT ""
-VERSION "0.1.0"
+VERSION "0.1.2"
 
 BEGIN "Infinity Auto Packager Example"
     PRINT "%MOD_FOLDER%"
